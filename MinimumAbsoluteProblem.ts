@@ -25,3 +25,4 @@ function minimumAbsDifference(arr: number[]): number[][] {
     
 };
 const ans:number[][]=minimumAbsDifference([4,2,1,3])
+
